@@ -1,0 +1,12 @@
+name,age,address,marks,pass
+vedant,19,Butwal,50,True
+ omit,19,Butwal,50,True
+shishir,20,Butwal,50,True
+nirwana,19,Butwal,60,True
+mohan,20,Butwal,70,True
+ravi,19,Butwal,80,True
+ravi,19,Butwal,10,False
+sudip,19,Butwal,23,False
+ramesh,18,Butwal,43,True
+samay,21,Butwal,60,True
+umesh,24,butwal,40,False
