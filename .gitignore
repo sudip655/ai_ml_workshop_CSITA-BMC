@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local data files
+*.csv
+!Day-04-Machine-Learning/Regression/dataset.csv
+!Day-04-Machine-Learning/Clustering/dataset.csv
+!Day-02-NumPy-Pandas/pandas/dummy_data.csv
+!Day-02-NumPy-Pandas/pandas/dummy_output.csv
+student_scores_clean.csv
+mall_customers.csv
+
+# Saved figures/plots
+*.png
+*.jpg
+*.jpeg
+*.pdf
+.env
